@@ -321,6 +321,7 @@ body {
 }
 .first-view {
   border-top: 2px solid black;
+  margin-bottom:60px;
 }
 .main2 {
   display: flex;
